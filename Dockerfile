@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM container4armhf/armhf-alpine:3.6
 MAINTAINER Adrian Dvergsdal [atmoz.net]
 
 # Steps done in one RUN layer:
